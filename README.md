@@ -1,3 +1,3 @@
 # Flatfile#
-## rédactoin en markdown ##
+## rédaction en markdown ##
 
