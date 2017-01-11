@@ -12,5 +12,5 @@ image: "/uploads/produit-1-15e256.jpg"
 weight: 150g
 ---
 
-## Carnet dos carré collé
+**Carnet dos carré collé**
 Carnet épais et résistant de 50 pages blanches 90gr  personnalisable. 
