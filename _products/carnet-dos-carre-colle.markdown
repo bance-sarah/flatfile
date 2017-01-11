@@ -1,5 +1,5 @@
 ---
-title: Carnet dos carré collé
+title: Carnet
 date: 2017-01-11 09:01:00 Z
 categories:
 - paper
@@ -13,4 +13,4 @@ weight: 150g
 ---
 
 ## Carnet dos carré collé
-Carnet épais et résistant de 100 pages blanches 120gr  personnalisable. 
+Carnet épais et résistant de 50 pages blanches 90gr  personnalisable. 
