@@ -28,6 +28,6 @@ defaults:
     type: pages
   values:
     layout: page
-url: https://snipcart.github.io/snipcart-jamstack
+url: https://bance-sarah.github.io/flatfile/
 snipcart_api_key: ''
 permalink: pretty
