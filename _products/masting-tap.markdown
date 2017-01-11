@@ -13,5 +13,5 @@ image: "/uploads/produit-4.jpg"
 weight: 50g
 ---
 
-##Masting personnalisable 
+**Masting personnalisable **
 Petit scotch décoratif pour habiller vos carnets. 
