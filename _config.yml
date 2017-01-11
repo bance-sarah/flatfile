@@ -29,5 +29,6 @@ defaults:
   values:
     layout: page
 url: https://bance-sarah.github.io/flatfile/
+baseurl: https://bance-sarah.github.io/flatfile/
 snipcart_api_key: ''
 permalink: pretty
