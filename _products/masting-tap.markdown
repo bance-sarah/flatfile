@@ -1,5 +1,5 @@
 ---
-title: Masting tap
+title: Maskting tap
 date: 2017-01-11 09:30:00 Z
 categories:
 - scotch
@@ -13,5 +13,5 @@ image: "/uploads/produit-4.jpg"
 weight: 50g
 ---
 
-**Masting personnalisable **
+**Maskting tap personnalisable **
 Petit scotch décoratif pour habiller vos carnets. 
