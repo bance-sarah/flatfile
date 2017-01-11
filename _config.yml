@@ -1,4 +1,13 @@
+---
 title: mon blog
-collections : 
-    cours :
-        output: true
+timezone: UTC
+collections:
+  cours:
+    title: Cours
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true

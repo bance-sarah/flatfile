@@ -1,8 +1,7 @@
 ---
-layout: default
 title: accueil
+layout: default
 ---
-
 
 <h1>{{page.title}}</h1>
 
