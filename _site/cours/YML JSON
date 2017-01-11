@@ -1,0 +1,11 @@
+#YML 
+
+- nom: jp
+  prenom: josiane
+  cursus :
+  - college
+  - lycee
+  - IUT
+  
+  #JSON 
+  récupérer des données
