@@ -13,4 +13,4 @@ weight: 150g
 ---
 
 ## Carnet dos carré collé
-Carnet épais et résistant personnalisable.
+Carnet épais et résistant de 100 pages blanches 120gr  personnalisable. 
